@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-### 🌱 I’m currently learning JAVA!
-
-Me chamo Lennon Nagata, sou do interior de São Paulo e estou inciando meus estudos em JAVA e cursando Engenharia da Computação pela UNIVESP.
-Em 2007-2008 fiz curso Técnico de Informática pela ETEC Dr Demétrio Azevedo Júnior (Instituto Centro Paula Souza), onde obtive conhecimento básico em lógica da programação, C, C++, Delphi e mySql.
+Me chamo Lennon Nagata, sou do interior de São Paulo e estou estudando/trabalhando com python, django e react.
 
 <!--
 **Lennonnag/Lennonnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
